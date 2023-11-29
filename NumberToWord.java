@@ -10,6 +10,7 @@ public class NumberToWord {
         if(num<0){
             return "Minus "+ numberToWord(-num);
         }
+        //test for git
         if(num<20)
             return oneDigit[num];
         if(num<100)
@@ -32,4 +33,5 @@ public class NumberToWord {
         else
             System.out.println("Enter number upto 5 digit");
     }
+    System.out.println("this is git demoss");
 }
