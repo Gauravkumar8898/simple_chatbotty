@@ -33,5 +33,5 @@ public class NumberToWord {
         else
             System.out.println("Enter number upto 5 digit");
     }
-    System.out.println("this is git demo");
+    System.out.println("this is git demoss");
 }
